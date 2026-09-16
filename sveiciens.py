@@ -1,1 +1,1 @@
-print("Mans pirmais geek?")
+print("mans pirmais geek?")
