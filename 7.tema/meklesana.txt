@@ -1,0 +1,4 @@
+Binārajai meklēšanai vajag sakārtotu sarakstu
+jo tā pēc vidējā elementa nosaka, kuru saraksta
+pusi var izlaist. Ja saraksts nav sakārtots,
+nevar zināt, kurā pusē atrodas meklētais elements.
